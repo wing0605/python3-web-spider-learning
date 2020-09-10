@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="516813bd-4ac0-463c-b598-4d0c2e4c6610" name="腾讯云">
+        <fileTransfer rootFolder="/home/liu/python_work_space" accessType="SFTP" host="118.25.49.252" port="22" sshConfigId="7f3dac21-efbe-4900-9e3a-ede4395c4098" sshConfig="liu@118.25.49.252:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
